@@ -6,10 +6,6 @@ Dentelo is a modern and responsive dental care landing page designed to showcase
 
 🔗 https://minar-dentelo.vercel.app/
 
-## 📂 GitHub Repository
-
-🔗 https://github.com/minar-hossain82/dentelo
-
 ## ✨ Features
 
 - 🦷 Modern dental care landing page
@@ -115,5 +111,4 @@ The goal of this project is to create a visually appealing and fully responsive 
 
 **Minar Hossain**
 
-- GitHub: https://github.com/minar-hossain82
 - LinkedIn: https://www.linkedin.com/in/minar-hossain-450820380
